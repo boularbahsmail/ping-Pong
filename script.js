@@ -31,7 +31,7 @@ function setup() {
 
 function draw() {
 
-  background(75);
+  background(110);
 
   /* draw paddles */
   rect(PADDLE_WIDTH * 2, player1Position, PADDLE_WIDTH, PADDLE_HEIGHT);
